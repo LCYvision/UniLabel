@@ -34,12 +34,11 @@
     git clone https://github.com/LCYvision/UniLabel.git
     cd UniLabel
     ```
-```
-    
+
 2.  **Install dependencies / 安装依赖**
     ```bash
     pip install -r requirements.txt
-```
+    ```
 
 3.  **Run the application / 运行软件**
     ```bash
