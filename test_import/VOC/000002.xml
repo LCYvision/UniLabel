@@ -1,0 +1,26 @@
+<annotation>
+  <folder>YOLO</folder>
+  <filename>000002.jpg</filename>
+  <path>D:\YOLO\000002.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>335</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>train</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>139</xmin>
+      <ymin>200</ymin>
+      <xmax>207</xmax>
+      <ymax>301</ymax>
+    </bndbox>
+  </object>
+</annotation>

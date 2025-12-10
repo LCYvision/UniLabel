@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "train",
+      "points": [
+        [
+          139.0000425,
+          200.0
+        ],
+        [
+          207.0000175,
+          301.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "000002.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 335
+}

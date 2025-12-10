@@ -1,0 +1,5 @@
+chair
+dog
+person
+sofa
+train
