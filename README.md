@@ -58,7 +58,7 @@
 *   Click **"Select Output Path"** to choose where to save the converted files / 点击 **"选择保存路径"** 来选择保存转换后文件的位置。
 
 ### 3. Start Conversion / 开始转换
-*   Click **"Start Conversion"** / 点击**“开始转换”**
+*   Click **"Start Conversion"** / 点击“开始转换”
 *   Wait for the progress bar to complete / 等待进度条完成
 
 ---
